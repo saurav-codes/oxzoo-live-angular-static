@@ -1,6 +1,10 @@
 # angular-static
 
-> **Role in the zoo:** project `angular-static` of [oxzoo-live](https://github.com/saurav-codes/oxzoo-live-control/blob/main/zoo/README.md#projects), deployed with ox on server s4 at https://angular-static.s4.zoo.sorv.dev. The contract it follows is [DESIGN.md](https://github.com/saurav-codes/oxzoo-live-control/blob/main/zoo/DESIGN.md).
+Deployed with [ox](https://deploywithox.com): deploy a repo to your own server with one command, no Docker. [Docs](https://deploywithox.com/docs) · [Guide for this stack](https://deploywithox.com/docs/guides/angular)
+
+**Live demo:** https://angular-static.s4.zoo.sorv.dev
+
+> **Role in the zoo:** project `angular-static` of [oxzoo-live](https://github.com/saurav-codes/oxzoo-live-control/blob/main/zoo/README.md#projects), deployed with [ox](https://deploywithox.com) on server s4 at https://angular-static.s4.zoo.sorv.dev. The contract it follows is [DESIGN.md](https://github.com/saurav-codes/oxzoo-live-control/blob/main/zoo/DESIGN.md).
 
 Angular 20 standalone app (zoneless, signals) built to static files and served by
 Caddy straight from the release. Server s4, proof level P3, probe kind `iframe`.
