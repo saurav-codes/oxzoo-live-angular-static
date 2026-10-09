@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.angular/
+public/zoo-config.json
+public/_zoo/health.json
